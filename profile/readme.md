@@ -1,3 +1,4 @@
+![Eagle Vision Group](https://github.com/Eagle-Vision-Group/.github/blob/main/profile/eaglevision.gif?raw=true)
 # Eagle Vision Group
 
 Bem-vindo ao repositório oficial do Eagle Vision Group, a maior rede de servidores de SAMP da América Latina!
